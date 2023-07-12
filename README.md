@@ -36,8 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fmanjencic/Advice-Generator-App)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/fmanjencic/Advice-Generator-App]
 
 ## My process
 
@@ -79,7 +78,7 @@ This challenge was useful for honing my CSS skills by attempting to match a prov
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fmanjencic
+- Frontend Mentor - [@fmanjencic]
 
 
 
