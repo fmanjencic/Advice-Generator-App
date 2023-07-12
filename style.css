@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap');
+
+body {
+    background-color: hsl(218, 23%, 16%);
+    font-family: 'Manrope', sans-serif;
+}
+
+.container {
+    border-radius: 15px;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+    width: 590px;
+    height: 325px;
+    margin: 150px auto;
+    background-color: hsl(217, 19%, 24%);
+    position: relative;
+    box-shadow: 5px 5px 15px rgb(36, 35, 35);
+}
+
+
+.imgbox {
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+    position: absolute;
+    bottom: -36px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center; 
+    cursor: pointer;
+}
+
+.imgbox button {
+    padding: 0;
+    border: none;
+    background-color: hsl(150, 100%, 66%);
+    cursor: pointer;
+    position: absolute;
+    top: 10px;   
+}
+
+.header-p {
+    letter-spacing: 4px;
+    color: hsl(150, 100%, 66%);
+    padding-top: 10px;
+}
+
+.quote-p {
+    font-size: 28px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container img {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.imgbox:hover {
+    box-shadow: 0 0 30px 10px hsl(150, 100%, 66%);
+}
+
+/* RESPONSIVE SIZING FOR PHONES */
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+        font-size: 23px;
+        height: auto;
+    }
+
+    .container img {
+        max-width: 70%;
+    }
+}
