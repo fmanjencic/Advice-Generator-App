@@ -74,7 +74,7 @@ This challenge was useful for honing my CSS skills by attempting to match a prov
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) - This proved to be a useful resource for syntax and a reference for CSS and JavaScript. 
+- [www.w3schools.com] - This proved to be a useful resource for syntax and a reference for CSS and JavaScript. 
 
 ## Author
 
